@@ -1,4 +1,4 @@
-<h1>Hello, Merhaba !</h1>
+<h1>Hello, Hola, Hallo, Merhaba !</h1>
 <p>
   <a href="https://www.linkedin.com/in/enes-eken-68404b287/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
