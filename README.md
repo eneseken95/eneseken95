@@ -1,4 +1,4 @@
-<h1>Hello, Hola, Hallo ! I'm Enes Eken 👋</h1>
+<h1>Hello, Hola, Hallo! I'm Enes Eken 👋</h1>
 <p>
   <a href="https://www.linkedin.com/in/enes-eken-68404b287/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
@@ -7,8 +7,8 @@
     <img alt="Instramgram" src="https://img.shields.io/badge/Instagram-Follow-blue?style=flat-square&logo=instagram">
   </a>
 </p>
-<p>• I am working on iOS Development.  </p>
-<p>• 💻 Karadeniz Technical University - Software Engineering Student <a href="https://www.ktu.edu.tr/">KTU</a></p>
+<p>• I am working on iOS Development  </p>
+<p>• 💻 Software Engineering Student - Karadeniz Technical University <a href="https://www.ktu.edu.tr/">KTU</a></p>
 <p>• 🌐 Check out my <a href="https://eneseken95.github.io/enesekencom/">website</a>!</p>
 <p>• Always Up ! 🚀</p>
 <p>• 📈 My GitHub Stats :</p>
