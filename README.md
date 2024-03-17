@@ -13,6 +13,6 @@
 <p>• Always Up ! 🚀</p>
 <p>• 📈 My GitHub Stats :</p>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=eneseken95&show_icons=true&hide_border=true&&count_private=true&theme=ambient_gradient&border_radius=1em" /> 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneseken95)](https://github.com/eneseken95/github-readme-stats)
   <img style="float: end;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneseken95&show_icons=true&hide_border=true&layout=compact&&count_private=true&theme=ambient_gradient&langs_count=8&border_radius=1em%22/%3E" />
 </div>
