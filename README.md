@@ -11,6 +11,7 @@
 <p>• I am working on iOS Development  </p>
 <p>• 💻 Software Engineering Student - Karadeniz Technical University <a href="https://www.ktu.edu.tr/">KTU</a></p>
 <p>• 🌐 Check out my <a href="https://eneseken95.github.io/enesekencom/">website</a>!</p>
+<p>• ✏️ My Medium articles <a href="https://medium.com/@eneseken85/">eneseken85</a></p>
 <p>• Always Up ! 🚀</p>
 <p>• 📈 My GitHub Stats :</p>
 <div>
