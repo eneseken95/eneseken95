@@ -8,6 +8,13 @@
     <img alt="Instramgram" src="https://img.shields.io/badge/Instagram-Follow-blue?style=flat-square&logo=instagram">
   </a>
 </p>
+<div>
+  <h2>My App</h2>
+</div>
+  <p>
+    <a href="https://apps.apple.com/tr/app/kovanz/id6737435603?l=tr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/5c/d4/385cd47c-dbf6-2aca-b1ae-e5702fbad746/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/460x0w.webp" alt="KovanZ" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+    </a>  
+  </p>
 <p>• I am working on iOS Development  </p>
 <p>• 💻 Software Engineering - Karadeniz Technical University <a href="https://www.ktu.edu.tr/">KTU</a></p>
 <p>• ✏️ My Medium articles <a href="https://medium.com/@eneseken85/">eneseken85</a> !</p>
