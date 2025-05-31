@@ -14,7 +14,9 @@
   <p>
     <a href="https://apps.apple.com/tr/app/kovanz/id6737435603?l=tr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/5c/d4/385cd47c-dbf6-2aca-b1ae-e5702fbad746/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/460x0w.webp" alt="KovanZ" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
     </a>  
-       <a href="https://apps.apple.com/tr/app/bubble-pairs/id6745023026?l=tr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/6b/a7/426ba7f1-56e3-fa1a-c540-48de97eebe46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/460x0w.webp" alt="Bubble Pairs" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+       <a href="https://apps.apple.com/us/app/bubble-pairs/id6745023026" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/6b/a7/426ba7f1-56e3-fa1a-c540-48de97eebe46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/460x0w.webp" alt="Bubble Pairs" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+    </a>  
+    <a href="https://apps.apple.com/us/app/face-moment/id6746380413" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/45/0a/a8450a21-54fe-92a8-49bc-4fb0765fd597/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/460x0w.webp" alt="Face Moment" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
     </a>  
   </p>
 <p>• I am working on iOS Development  </p>
