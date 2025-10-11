@@ -20,7 +20,7 @@
     </a>  
   </p>
 <div>
-  <h2>My Featured App on GitHub</h2>
+  <h2>My Featured Apps on GitHub</h2>
 </div>
   <p>
     <a href="https://github.com/eneseken95/UpQuest" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://github.com/eneseken95/UpQuest/blob/main/UpQuest/UpQuest/Assets.xcassets/Images/UpQuest.imageset/UpQuest.png" alt="UpQuest" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
