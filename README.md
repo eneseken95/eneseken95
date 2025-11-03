@@ -11,7 +11,7 @@
     <img alt="X" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=x">
   </a>
   <a href="https://www.reddit.com/user/EnesEken75/" target="_blank">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Join-blue?style=flat-square&logo=reddit&logoColor=white">
+    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-Follow-blue?style=flat-square&logo=reddit&logoColor=white">
   </a>
 </p>
 <div>
@@ -43,7 +43,7 @@
 <p>• ✏️ My Medium Articles <a href="https://medium.com/@eneseken85/">eneseken85</a></p>
 <p>• 💬 My Stack Overflow Profile <a href="https://stackoverflow.com/users/31795733/enes-eken">eneseken</a></p>
 <p>• Always Up ! 🚀</p>
-<p>• 📈 My GitHub Stats :</p>
+<p>• 📈 My GitHub Stats:</p>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=eneseken95&show_icons=true&hide_border=true&&count_private=true&theme=radical&border_radius=1em&cache_seconds=1800" /> 
   <img style="float: end;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneseken95&show_icons=true&hide_border=true&card_width=365&layout=compact&&count_private=true&theme=radical&langs_count=8&bg_color=#434d58&border_radius=1em%22/%3E&cache_seconds=1800" />
