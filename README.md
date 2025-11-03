@@ -7,6 +7,9 @@
   <a href="https://instagram.com/eneseken0" target="_blank">
     <img alt="Instramgram" src="https://img.shields.io/badge/Instagram-Follow-blue?style=flat-square&logo=instagram">
   </a>
+  <a href="https://x.com/eneseken95" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=x">
+  </a>
 </p>
 <div>
   <h2>My Apps on the App Store</h2>
@@ -34,7 +37,9 @@
   </p>
 <p>• I am working on iOS Development  </p>
 <p>• 💻 Software Engineering - Karadeniz Technical University <a href="https://www.ktu.edu.tr/">KTU</a></p>
-<p>• ✏️ My Medium articles <a href="https://medium.com/@eneseken85/">eneseken85</a> !</p>
+<p>• ✏️ My Medium Articles <a href="https://medium.com/@eneseken85/">eneseken85</a></p>
+<p>• 💬 My Stack Overflow Profile <a href="https://stackoverflow.com/users/31795733/enes-eken">eneseken</a></p>
+<p>• 🤖 My Reddit Account <a href="https://www.reddit.com/user/EnesEken75/">eneseken75</a></p>
 <p>• Always Up ! 🚀</p>
 <p>• 📈 My GitHub Stats :</p>
 <div>
