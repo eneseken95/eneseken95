@@ -41,7 +41,7 @@
 <p>• I am working on iOS Development  </p>
 <p>• 💻 Software Engineering - Karadeniz Technical University <a href="https://www.ktu.edu.tr/">KTU</a></p>
 <p>• ✏️ My Medium Articles <a href="https://medium.com/@eneseken85/">eneseken85</a></p>
-<p>• 💬 My Stack Overflow Profile <a href="https://stackoverflow.com/users/31795733/enes-eken">eneseken</a></p>
+<p>• 🗂️ My Stack Overflow Profile <a href="https://stackoverflow.com/users/31795733/enes-eken">eneseken</a></p>
 <p>• Always Up ! 🚀</p>
 <p>• 📈 My GitHub Stats:</p>
 <div>
